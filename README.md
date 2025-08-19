@@ -14,7 +14,6 @@ Também curto trabalhar com **Python** para automações, análise de dados e in
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Supabase" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg">
-  <img align="center" alt="SAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg">
   <img align="center" alt="Data" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
