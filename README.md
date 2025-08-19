@@ -1,4 +1,4 @@
-## Oiii, eu sou o Jheymison Fonseca! 🚀  
+## Olá, eu sou o Jheymison Fonseca! 🚀  
 Sou **Full Stack Engineer** com foco em **JS/TS, Node.js, React Native & Flutter**, além de experiência em **Cloud (Firebase/Supabase), Data Analytics, SAP e Automação de Processos**.  
 Também curto trabalhar com **Python** para automações, análise de dados e integrações.
 
