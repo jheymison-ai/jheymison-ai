@@ -19,8 +19,8 @@ Também curto trabalhar com **Python** para automações, análise de dados e in
 
 ---
 
-![Snake dark](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake light](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake dark](https://github.com/jheymison-ai/jheymison-ai/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake light](https://github.com/jheymison-ai/jheymison-ai/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 ---
