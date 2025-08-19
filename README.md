@@ -19,9 +19,9 @@ Também curto trabalhar com **Python** para automações, análise de dados e in
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Jhey GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight)
+![Snake dark](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake light](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 ---
 
